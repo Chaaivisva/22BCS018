@@ -25,3 +25,6 @@ The window only keeps unique values.
 If more than 10 numbers exist, the oldest ones get booted.
 The average is computed and rounded to two decimal places.
 
+An Instance of the output (Even Numbers)
+![image](https://github.com/user-attachments/assets/52c7174e-bb2e-4d89-b079-6173030218f0)
+
