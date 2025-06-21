@@ -5,14 +5,14 @@ const PORT = 9876;
 const WINDOW_SIZE = 10;
 const TIMEOUT = 500;
 
-const BEARER_TOKEN = 'Bearer_Token_Here';
+const BEARER_TOKEN = 'BEARER_TOKEN';
 
 //endpoints
 const endpoints = {
-  'p': 'http://20.244.56.144/evaluation-service/primes',
-  'f': 'http://20.244.56.144/evaluation-service/fibo',
-  'e': 'http://20.244.56.144/evaluation-service/even',
-  'r': 'http://20.244.56.144/evaluation-service/rand'
+  'p': '[BASE_URL]/primes',
+  'f': '[BASE_URL]/fibo',
+  'e': '[BASE_URL]/even',
+  'r': '[BASE_URL]/rand'
 };
 
 //window size - 10
